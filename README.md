@@ -1,1 +1,1 @@
-This repo contains my notes and exercizes from reading Programming Elixir 1.2.
+This repo contains my notes and execises from reading Programming Elixir 1.2.
